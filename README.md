@@ -8,3 +8,5 @@ So I decided to go with a different approach and make one component that can be 
 - boxType="cover"
 - boxType="topBar"
 - boxType="bottomBar"
+
+![Fullscreen](https://github.com/shaynemeyer/react-layout-demo/blob/master/full.png)
