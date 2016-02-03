@@ -10,8 +10,8 @@ So I decided to go with a different approach and make one component that can be 
 - boxType="bottomBar"
 
 
-#### Final Version
+#### Final Version:
 ![Fullscreen](http://i.imgur.com/ArivrMq.png?1)
 
-#### Mobile Version
+#### Mobile Version:
 ![Fullscreen](http://i.imgur.com/0nkpKM0.png?1)
