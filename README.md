@@ -9,4 +9,7 @@ So I decided to go with a different approach and make one component that can be 
 - boxType="topBar"
 - boxType="bottomBar"
 
-![Fullscreen](https://github.com/shaynemeyer/react-layout-demo/blob/master/full.png)
+![Fullscreen](http://i.imgur.com/ArivrMq.png?1)
+
+
+![Fullscreen](http://i.imgur.com/0nkpKM0.png?1)
