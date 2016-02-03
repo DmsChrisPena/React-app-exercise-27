@@ -134,7 +134,7 @@ var InfoBox = React.createClass({
             );
         }
 
-        //If no type or incorrect type entered
+        //Alert if no type or incorrect type entered
         return (
             <div>
                 <h4>Please make sure that you boxType is one of the following:</h4>
